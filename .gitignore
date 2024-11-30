@@ -1,5 +1,8 @@
 .vscode
 .env
+neopy5venv/
+llm-knowledge-graph/
+realisations.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
